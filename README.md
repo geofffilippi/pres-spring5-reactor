@@ -1,6 +1,6 @@
 # 
 
-Slides from talk given on Wednesay 9, 2018 at the Denver Java Users Meetup Group.
+Slides from talk given on Tuesday June 12th at the Boulder Java Users Meetup Group and Wednesday June 13th, 2018 at the Denver Java Users Meetup Group.
 
 > Spring 5 and Project Reactor
 
@@ -8,24 +8,15 @@ Slides from talk given on Wednesay 9, 2018 at the Denver Java Users Meetup Group
 
 You will learn how to create a Non-blocking application using Spring Boot 2. We will use start.spring.io to create a new Reactive application. Will will compare the Flux and Mono types and discuss when to use each.
 
-* Blocking/Non-blocking IO
-* Reactive Manifesto
-* Project Reactor
-* Spring 5
-* Spring Boot 2
-* Reactive Streams
+About Geoff Filippi Geoff is a Senior Architect at DISH Network, serving a large group of developers implementing microservices. Prior to his work at DISH, he was an Application Architect at Oildex, an oil and gas data service company. He also spent 12 years at Time Warner Cable, where he was a Senior Engineer. At TWC, he leads the team that built the video streaming web application, TWCTV.
 
-* Higher concurrency
-* Lower latency
-* Lower hardware costs
-* Scales better
-* 
+Geoff holds BS and MS degrees in Computer Engineering from Virginia Tech. He holds several patents related to high-availability, architecture, wireless networks and cable systems.
 
->Finally TODO
+Geoff is focused on API design, continuous deployment, domain-driven design, containers, and cloud-native architectures.
 
-[Markdown]('todo.md')
+[Markdown]('pres-spring-reactor.md')
 
-[PDF]('todo.pdf')
+[PDF]('pres-spring-reactor.pdf')
 
 This slideshow was written using [reveal.js](https://github.com/hakimel/reveal.js)
 
