@@ -293,12 +293,12 @@ body {
 #logo {
   background: url(../../img/logo.png);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: 50%;
   position: absolute;
-  bottom: 6%;
-  right: 6%;
+  bottom: 4%;
+  right: 4%;
   width: 20%;
-  height: 10%;
+  height: 40%;
 }
 /*********************************************
  * Boxes for simple diagrams
