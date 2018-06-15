@@ -14,9 +14,9 @@ Geoff holds BS and MS degrees in Computer Engineering from Virginia Tech. He hol
 
 Geoff is focused on automating security, API design, domain-driven design and cloud-native architectures.
 
-[Markdown]('spring5-reactor.md')
+[Markdown](spring5-reactor.md)
 
-[PDF]('spring5-reactor.pdf')
+[PDF](spring5-reactor.pdf)
 
 This slideshow was written using [reveal.js](https://github.com/hakimel/reveal.js)
 
